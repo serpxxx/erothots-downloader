@@ -832,6 +832,7 @@ print(f"Found {sum(len(v) for v in sources.values())} potential video sources")
 
 **Stage 2: Network Monitoring**
 ```python
+import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
