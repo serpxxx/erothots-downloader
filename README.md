@@ -1,4 +1,18 @@
-# Erothots Downloader
+# Erothots Video Downloader App (Browser Extension for Chrome, Firefox, Edge, Brave, Arc, Safari)
+
+
+## 🔗 Links
+
+- 🎁 Get it [here](https://serp.ly/erothots-downloader)
+- ❓ Check FAQs [here](https://github.com/orgs/serpapps/discussions/categories/faq)
+- 🐛 Report bugs [here](https://github.com/serpapps/erothots-downloader/issues)
+- 🆕 Request features [here](https://github.com/serpapps/erothots-downloader/issues)
+
+## Resources
+
+- [Repository](https://github.com/serpapps/erothots-downloader)
+- [Gist]()
+- [How to download pornhub videos]()
 
 
 
