@@ -20,7 +20,7 @@ EroThots Downloader is a browser extension for users who want a more direct way 
 
 ## Preview
 
-![EroThots Downloader workflow preview](assets/workflow-preview.svg)
+![EroThots Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
