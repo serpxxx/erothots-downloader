@@ -1,4 +1,4 @@
-# EroThots Downloader
+# EroThots Downloader Browser Extension
 
 > Download supported EroThots videos as MP4 files from the browser with direct quality selection.
 
