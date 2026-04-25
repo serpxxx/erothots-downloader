@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Erothots Downloader gives creators and teams a dependable way to save Erothots content instantly to your device. Instead of juggling manual captures or questionable browser extensions, it pulls content directly from Erothots with consistent quality and predictable results.\n\nIt supports Content from Erothots platform, Various media types and formats, and Batch downloads for series/collections, so you can move quickly from download to delivery without tedious rework. Use it to archive Erothots assets, prep client deliverables, or keep your library accessible when connectivity is limited.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "erothots-downloader",
+  "readme": "../ACTOR.md",
+  "title": "Erothots Downloader",
+  "version": "0.0"
+}
