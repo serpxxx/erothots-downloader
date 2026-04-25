@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "erothots-downloader",
   "readme": "../ACTOR.md",
-  "title": "Erothots Downloader",
+  "title": "EroThots Downloader Browser Extension",
   "version": "0.0"
 }
