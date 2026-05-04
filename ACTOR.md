@@ -1,8 +1,12 @@
-# EroThots Downloader
+# EroThots Video Downloader | How to Download EroThots Videos
 
 > Download supported EroThots videos as MP4 files from the browser with direct quality selection.
 
-![Erothots Downloader](https://raw.githubusercontent.com/serpxxx/erothots-downloader/main/assets/workflow-preview.webp)
+## Get it Here
+
+Get it here: https://serp.ly/erothots-downloader
+
+![EroThots Downloader](https://raw.githubusercontent.com/serpxxx/erothots-downloader/main/assets/workflow-preview.webp)
 
 EroThots Downloader is a browser extension for users who want a more direct way to save supported EroThots videos without relying on generic HLS tools, downloader sites, or manual copy workflows. It detects supported video pages in the browser, exposes the available qualities, and exports finished downloads as MP4 for easier playback later.
 
@@ -11,11 +15,6 @@ EroThots Downloader is a browser extension for users who want a more direct way 
 - Save finished files as standard MP4
 - Use in-page controls, popup controls, or right-click actions
 - Keep downloads organized in a dedicated folder
-
-## Get it Here
-
-Get it here: https://serp.ly/erothots-downloader
-
 ## Table of Contents
 
 - [Why EroThots Downloader](#why-erothots-downloader)
